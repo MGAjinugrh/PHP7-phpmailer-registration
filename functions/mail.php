@@ -37,7 +37,7 @@ $mail->SMTPAuth = true;
 $mail->Username = ""; //isi sama email lu
 
 //Password to use for SMTP authentication
-$mail->Password = "bfkpktkqfhaqvzjv";
+$mail->Password = "";
 
 //Set who the message is to be sent from
 $mail->setFrom('', 'Developer'); //yang kosong isi sama email lu
